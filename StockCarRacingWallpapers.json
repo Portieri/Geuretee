@@ -30,7 +30,7 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "",
+"startapp" : "205429772",
 
 "admob_banner" : "",
 "admob_inter" : "",
@@ -51,7 +51,7 @@
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : "",
+"unity_id" : 4182873,
 "unity_test" : false,
 
 "applovin_banner_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
