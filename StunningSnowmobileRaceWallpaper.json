@@ -33,8 +33,8 @@
 "startapp" : "206874208",
 
 "admob_banner" : "ca-app-pub-8703788307276427/3957060337",
-"admob_inter" : "ca-app-pub-8703788307276427/8798323474",
-"admob_native" : "ca-app-pub-8703788307276427/7237829796",
+"admob_inter" : "ca-app-pub-8703788307276427/8798323474x",
+"admob_native" : "ca-app-pub-8703788307276427/7237829796x",
 
 "hpk_alien" : "Donate Car to Charity California",
 "hpkadmob1" : "Mesothelioma Law",
@@ -51,7 +51,7 @@
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : 4220287,
+"unity_id" : ,
 "unity_test" : false,
 
 "applovin_banner_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
