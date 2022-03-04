@@ -16,11 +16,11 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_banner" : "APPLOVIN",
+"pengaturan_iklan_inter" : "APPLOVIN",
+"pengaturan_iklan_native" : "APPLOVIN",
 
-"inter_count" : 3,
+"inter_count" : 2,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
@@ -32,7 +32,7 @@
 
 "startapp" : "205649209",
 
-"admob_banner" : "ca-app-pub-8703788307276427/3123578552",
+"admob_banner" : "ca-app-pub-8703788307276427/3123578552x",
 "admob_inter" : "ca-app-pub-8703788307276427/9497415212x",
 "admob_native" : "ca-app-pub-8703788307276427/8184333546x",
 
@@ -51,11 +51,11 @@
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : ,
+"unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
-"applovin_inters_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
+"applovin_banner_id" : "777ee49c7858d7a3",
+"applovin_inters_id" : "4083c2c89727b981",
 
 "Button_Rating" : "Rate App",
 "Button_Share" : "Share",
