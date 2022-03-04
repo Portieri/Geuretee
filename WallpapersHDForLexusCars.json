@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 3,
+"inter_count" : 2,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
@@ -32,7 +32,7 @@
 
 "startapp" : "205740609",
 
-"admob_banner" : "ca-app-pub-8703788307276427/8020682015",
+"admob_banner" : "ca-app-pub-8703788307276427/8020682015x",
 "admob_inter" : "ca-app-pub-8703788307276427/3014917288x",
 "admob_native" : "ca-app-pub-8703788307276427/5634191827x",
 
@@ -51,11 +51,11 @@
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : ,
+"unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
-"applovin_inters_id" : "TGx1teODRw6FkviIwt7NUZxQMlR_QTavpVxg9JvbE_szvTGqPNBvy6JIsmIHJuA6O5oTPg8eg-caWtOxEZqBg8",
+"applovin_banner_id" : "1cd3ebbb29c3d52d",
+"applovin_inters_id" : "a762e32a9338d543",
 
 "Button_Rating" : "Rate App",
 "Button_Share" : "Share",
