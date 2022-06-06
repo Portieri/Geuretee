@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 1,
+"inter_count" : 3,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
