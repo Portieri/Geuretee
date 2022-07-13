@@ -16,9 +16,9 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_banner" : "APPLOVIN",
+"pengaturan_iklan_inter" : "APPLOVIN",
+"pengaturan_iklan_native" : "APPLOVIN",
 
 "inter_count" : 3,
 
@@ -32,9 +32,9 @@
 
 "startapp" : "205309105",
 
-"admob_banner" : "ca-app-pub-8703788307276427/3621421947",
-"admob_inter" : "ca-app-pub-8703788307276427/1331134670",
-"admob_native" : "ca-app-pub-8703788307276427/6391889667",
+"admob_banner" : "ca-app-pub-8703788307276427/3621421947x",
+"admob_inter" : "ca-app-pub-8703788307276427/1331134670x",
+"admob_native" : "ca-app-pub-8703788307276427/6391889667x",
 
 "hpk_alien" : "Donate Car to Charity California",
 "hpkadmob1" : "Mesothelioma Law",
