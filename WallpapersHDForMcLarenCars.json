@@ -17,8 +17,8 @@
 //  Iklan native hanya bisa admob fan appodel
 
 "pengaturan_iklan_banner" : "APPLOVIN",
-"pengaturan_iklan_inter" : "APPLOVIN",
-"pengaturan_iklan_native" : "APPLOVIN",
+"pengaturan_iklan_inter" : "ADMOB",
+"pengaturan_iklan_native" : "ADMOB",
 
 "inter_count" : 3,
 
@@ -32,9 +32,9 @@
 
 "startapp" : "206959169",
 
-"admob_banner" : "ca-app-pub-8703788307276427/6420250767x",
-"admob_inter" : "ca-app-pub-8703788307276427/9791469815x",
-"admob_native" : "ca-app-pub-8703788307276427/1701226802x",
+"admob_banner" : "ca-app-pub-8703788307276427/2669990557x",
+"admob_inter" : "ca-app-pub-8703788307276427/1356908882",
+"admob_native" : "ca-app-pub-8703788307276427/6840050294",
 
 "hpk_alien" : "Donate Car to Charity California",
 "hpkadmob1" : "Mesothelioma Law",
