@@ -16,7 +16,7 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "APPLOVIN",
+"pengaturan_iklan_banner" : "ADMOB",
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
@@ -32,7 +32,7 @@
 
 "startapp" : "206772308",
 
-"admob_banner" : "ca-app-pub-8703788307276427/5379761132x",
+"admob_banner" : "ca-app-pub-8703788307276427/5379761132",
 "admob_inter" : "ca-app-pub-8703788307276427/9530759130",
 "admob_native" : "ca-app-pub-8703788307276427/8217677466",
 
@@ -54,7 +54,7 @@
 "unity_id" : 1234567,
 "unity_test" : false,
 
-"applovin_banner_id" : "76842f9d10234059",
+"applovin_banner_id" : "76842f9d10234059x",
 "applovin_inters_id" : "83872455ed90d9c5x",
 
 "Button_Rating" : "Rate App",
